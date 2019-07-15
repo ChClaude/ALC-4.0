@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_msg">Welcome to ALC4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="andela_toolbar">Andela</string>
+    <string name="about_alc_toolbar">About ALC</string>
+    <string name="my_profile_toolBarText">My Profile</string>
+    <string name="track_field">Track</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="slack_username2">\@ChristTchambila</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="email_field">Email:</string>
+    <string name="country_field">Country:</string>
+    <string name="andela_logo_and_name">Andela_logo_and_name</string>
+    <string name="claude_de_tchambila">Claude DE-TCHAMBILA</string>
+</resources>
